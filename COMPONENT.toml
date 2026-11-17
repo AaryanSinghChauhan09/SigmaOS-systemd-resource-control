@@ -3,7 +3,7 @@ name = "SigmaOS-systemd-resource-control"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "systemd-resource-control component"
+description = "systemd resource control"
 upstream = []
 
 [contract]
